@@ -7,7 +7,7 @@ import { UpperCasePipe } from '@angular/common';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title =  'The Time Tracker';
+  title =  'Time Tracker';
   
 }
 
